@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d741e6a6.css",
+    "main.js": "/static/js/main.81702f2a.js",
+    "static/media/notes.svg": "/static/media/notes.5d12a975adcc0428f110ba2950ad43e4.svg",
+    "static/media/blind-guy.svg": "/static/media/blind-guy.a735c443728d230bab62ed3dff46f3de.svg",
+    "static/media/blind-girl.svg": "/static/media/blind-girl.4782744b082c646cd7ae4386300353f2.svg",
+    "static/media/man.svg": "/static/media/man.2f10dce7ba826b8ff9da1e7ceecc59de.svg",
+    "static/media/woman.svg": "/static/media/woman.ca08d2e4b62cdd6bae7952bfe1242b38.svg",
+    "static/media/microphone.svg": "/static/media/microphone.9af45ba0f7687d775f92d92a054da003.svg",
+    "static/media/settings.svg": "/static/media/settings.f1c630877a061c24a4501a76ce3bddac.svg",
+    "static/media/headset.svg": "/static/media/headset.38efaf31f388ff80043dac030d4a1897.svg",
+    "static/media/micro.svg": "/static/media/micro.f1f77e242657a862a1c7cbd2295b5132.svg",
+    "index.html": "/index.html",
+    "main.d741e6a6.css.map": "/static/css/main.d741e6a6.css.map",
+    "main.81702f2a.js.map": "/static/js/main.81702f2a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d741e6a6.css",
+    "static/js/main.81702f2a.js"
+  ]
+}
